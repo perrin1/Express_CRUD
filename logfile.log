@@ -1,0 +1,51 @@
+{"level":"info","message":"app sur ecoute sur l'url http://localhost8080","timestamp":"2024-01-17T09:10:54.735Z"}
+{"level":"info","message":"Connect","timestamp":"2024-01-17T09:10:55.888Z"}
+{"level":"info","message":"app sur ecoute sur l'url http://localhost8080","timestamp":"2024-01-17T09:47:16.334Z"}
+{"level":"info","message":"Connect","timestamp":"2024-01-17T09:47:16.538Z"}
+{"level":"info","message":"app sur ecoute sur l'url http://localhost8080","timestamp":"2024-01-17T09:47:24.257Z"}
+{"level":"info","message":"Connect","timestamp":"2024-01-17T09:47:24.468Z"}
+{"level":"info","message":"app sur ecoute sur l'url http://localhost8080","timestamp":"2024-01-17T09:49:42.430Z"}
+{"level":"info","message":"Connect","timestamp":"2024-01-17T09:49:42.468Z"}
+{"level":"info","message":"app sur ecoute sur l'url http://localhost8080","timestamp":"2024-01-17T09:50:58.972Z"}
+{"level":"info","message":"Connect","timestamp":"2024-01-17T09:50:59.211Z"}
+{"level":"info","message":"app sur ecoute sur l'url http://localhost8080","timestamp":"2024-01-17T09:52:43.303Z"}
+{"level":"info","message":"Connect","timestamp":"2024-01-17T09:52:43.399Z"}
+{"level":"info","message":"app sur ecoute sur l'url http://localhost8080","timestamp":"2024-01-17T09:53:29.655Z"}
+{"level":"info","message":"Connect","timestamp":"2024-01-17T09:53:29.744Z"}
+{"level":"info","message":"app sur ecoute sur l'url http://localhost:8080","timestamp":"2024-01-17T09:57:23.255Z"}
+{"level":"info","message":"Connect","timestamp":"2024-01-17T09:57:23.337Z"}
+{"level":"info","message":"app sur ecoute sur l'url http://localhost:8080","timestamp":"2024-01-17T10:00:30.727Z"}
+{"level":"info","message":"Connect","timestamp":"2024-01-17T10:00:30.800Z"}
+{"level":"info","message":"app sur ecoute sur l'url http://localhost:8080","timestamp":"2024-01-17T10:03:56.068Z"}
+{"level":"info","message":"Connect","timestamp":"2024-01-17T10:03:56.139Z"}
+{"message":"Failed to lookup view \"layout\" in views directory \"C:\\laragon\\www\\mvcexpress\\views\"","stack":"Error: Failed to lookup view \"layout\" in views directory \"C:\\laragon\\www\\mvcexpress\\views\"\n    at Function.render (C:\\laragon\\www\\mvcexpress\\node_modules\\express\\lib\\application.js:597:17)\n    at ServerResponse.render (C:\\laragon\\www\\mvcexpress\\node_modules\\express\\lib\\response.js:1039:7)\n    at C:\\laragon\\www\\mvcexpress\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:113:20\n    at tryHandleCache (C:\\laragon\\www\\mvcexpress\\node_modules\\ejs\\lib\\ejs.js:280:5)\n    at exports.renderFile [as engine] (C:\\laragon\\www\\mvcexpress\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\laragon\\www\\mvcexpress\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\laragon\\www\\mvcexpress\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\laragon\\www\\mvcexpress\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\laragon\\www\\mvcexpress\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (C:\\laragon\\www\\mvcexpress\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)","view":{"defaultEngine":"ejs","ext":".ejs","name":"layout","root":"C:\\laragon\\www\\mvcexpress\\views"},"level":"error","timestamp":"2024-01-17T10:12:34.152Z"}
+{"message":"Failed to lookup view \"layout\" in views directory \"C:\\laragon\\www\\mvcexpress\\views\"","stack":"Error: Failed to lookup view \"layout\" in views directory \"C:\\laragon\\www\\mvcexpress\\views\"\n    at Function.render (C:\\laragon\\www\\mvcexpress\\node_modules\\express\\lib\\application.js:597:17)\n    at ServerResponse.render (C:\\laragon\\www\\mvcexpress\\node_modules\\express\\lib\\response.js:1039:7)\n    at C:\\laragon\\www\\mvcexpress\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:113:20\n    at tryHandleCache (C:\\laragon\\www\\mvcexpress\\node_modules\\ejs\\lib\\ejs.js:280:5)\n    at exports.renderFile [as engine] (C:\\laragon\\www\\mvcexpress\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\laragon\\www\\mvcexpress\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\laragon\\www\\mvcexpress\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\laragon\\www\\mvcexpress\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\laragon\\www\\mvcexpress\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (C:\\laragon\\www\\mvcexpress\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)","view":{"defaultEngine":"ejs","ext":".ejs","name":"layout","root":"C:\\laragon\\www\\mvcexpress\\views"},"level":"error","timestamp":"2024-01-17T10:12:34.789Z"}
+{"message":"Failed to lookup view \"layout\" in views directory \"C:\\laragon\\www\\mvcexpress\\views\"","stack":"Error: Failed to lookup view \"layout\" in views directory \"C:\\laragon\\www\\mvcexpress\\views\"\n    at Function.render (C:\\laragon\\www\\mvcexpress\\node_modules\\express\\lib\\application.js:597:17)\n    at ServerResponse.render (C:\\laragon\\www\\mvcexpress\\node_modules\\express\\lib\\response.js:1039:7)\n    at C:\\laragon\\www\\mvcexpress\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:113:20\n    at tryHandleCache (C:\\laragon\\www\\mvcexpress\\node_modules\\ejs\\lib\\ejs.js:280:5)\n    at exports.renderFile [as engine] (C:\\laragon\\www\\mvcexpress\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\laragon\\www\\mvcexpress\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\laragon\\www\\mvcexpress\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\laragon\\www\\mvcexpress\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\laragon\\www\\mvcexpress\\node_modules\\express\\lib\\response.js:1039:7)\n    at res.render (C:\\laragon\\www\\mvcexpress\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)","view":{"defaultEngine":"ejs","ext":".ejs","name":"layout","root":"C:\\laragon\\www\\mvcexpress\\views"},"level":"error","timestamp":"2024-01-17T10:13:04.078Z"}
+{"level":"info","message":"app sur ecoute sur l'url http://localhost:8080","timestamp":"2024-01-17T10:22:34.829Z"}
+{"level":"info","message":"Connect","timestamp":"2024-01-17T10:22:34.897Z"}
+{"level":"info","message":"app sur ecoute sur l'url http://localhost:8080","timestamp":"2024-01-17T10:25:12.655Z"}
+{"level":"info","message":"Connect","timestamp":"2024-01-17T10:25:12.732Z"}
+{"level":"info","message":"app sur ecoute sur l'url http://localhost:8080","timestamp":"2024-01-17T10:39:38.984Z"}
+{"level":"info","message":"Connect","timestamp":"2024-01-17T10:39:39.313Z"}
+{"level":"info","message":"app sur ecoute sur l'url http://localhost:8080","timestamp":"2024-01-17T10:52:36.557Z"}
+{"level":"info","message":"Connect","timestamp":"2024-01-17T10:52:36.783Z"}
+{"level":"info","message":"app sur ecoute sur l'url http://localhost:8080","timestamp":"2024-01-17T10:54:28.764Z"}
+{"level":"info","message":"Connect","timestamp":"2024-01-17T10:54:28.882Z"}
+{"level":"info","message":"app sur ecoute sur l'url http://localhost:8080","timestamp":"2024-01-17T10:56:42.139Z"}
+{"level":"info","message":"Connect","timestamp":"2024-01-17T10:56:42.259Z"}
+{"level":"info","message":"app sur ecoute sur l'url http://localhost:8080","timestamp":"2024-01-17T11:01:48.284Z"}
+{"level":"info","message":"Connect","timestamp":"2024-01-17T11:01:48.364Z"}
+{"level":"info","message":"app sur ecoute sur l'url http://localhost:8080","timestamp":"2024-01-17T11:03:14.700Z"}
+{"level":"info","message":"Connect","timestamp":"2024-01-17T11:03:14.768Z"}
+{"level":"info","message":"app sur ecoute sur l'url http://localhost:8080","timestamp":"2024-01-17T11:13:45.323Z"}
+{"level":"info","message":"Connect","timestamp":"2024-01-17T11:13:45.477Z"}
+{"level":"info","message":"app sur ecoute sur l'url http://localhost:8080","timestamp":"2024-01-17T11:14:54.219Z"}
+{"level":"info","message":"Connect","timestamp":"2024-01-17T11:14:54.296Z"}
+{"level":"info","message":"app sur ecoute sur l'url http://localhost:8080","timestamp":"2024-01-17T11:23:33.884Z"}
+{"level":"info","message":"Connect","timestamp":"2024-01-17T11:23:33.951Z"}
+{"level":"info","message":"app sur ecoute sur l'url http://localhost:8080","timestamp":"2024-01-17T11:29:46.116Z"}
+{"level":"info","message":"Connect","timestamp":"2024-01-17T11:29:46.278Z"}
+{"level":"info","message":"app sur ecoute sur l'url http://localhost:8080","timestamp":"2024-01-17T11:33:13.121Z"}
+{"level":"info","message":"Connect","timestamp":"2024-01-17T11:33:13.172Z"}
+{"level":"info","message":"app sur ecoute sur l'url http://localhost:8080","timestamp":"2024-01-17T11:44:36.553Z"}
+{"level":"info","message":"Connect","timestamp":"2024-01-17T11:44:36.602Z"}
